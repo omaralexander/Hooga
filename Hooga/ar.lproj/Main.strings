@@ -1,0 +1,129 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2R7-3L-bIf"; */
+"2R7-3L-bIf.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "3KE-2c-ny0"; */
+"3KE-2c-ny0.title" = "Root View Controller";
+
+/* Class = "UITextView"; text = "Welcome to the Hooga family! Get ready to experience the world as it was meant."; ObjectID = "4bf-52-6d6"; */
+"4bf-52-6d6.text" = "Welcome to the Hooga family! Get ready to experience the world as it was meant.";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "A1F-eh-7eJ"; */
+"A1F-eh-7eJ.normalTitle" = "X";
+
+/* Class = "UITextView"; text = "It looks like either your email or password are incorrect...   it's okay we won't tell anyone"; ObjectID = "Agt-WR-Igf"; */
+"Agt-WR-Igf.text" = "It looks like either your email or password are incorrect...   it's okay we won't tell anyone";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "C3M-7b-Zgb"; */
+"C3M-7b-Zgb.normalTitle" = "close";
+
+/* Class = "UITextField"; text = "Success!"; ObjectID = "C6I-Wb-w5q"; */
+"C6I-Wb-w5q.text" = "Success!";
+
+/* Class = "UITextView"; text = "There was an error in making your account"; ObjectID = "Cer-vf-EbU"; */
+"Cer-vf-EbU.text" = "There was an error in making your account";
+
+/* Class = "UIButton"; normalTitle = "Refer Friends"; ObjectID = "Cvo-cV-tpq"; */
+"Cvo-cV-tpq.normalTitle" = "Refer Friends";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Den-Vu-6pm"; */
+"Den-Vu-6pm.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EpA-Zu-ptf"; */
+"EpA-Zu-ptf.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ff3-mr-oWN"; */
+"Ff3-mr-oWN.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fsu-nN-U6v"; */
+"Fsu-nN-U6v.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "IFo-Ez-5FJ"; */
+"IFo-Ez-5FJ.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "J0o-1m-BqU"; */
+"J0o-1m-BqU.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Login with Facebook"; ObjectID = "KFy-2L-BVI"; */
+"KFy-2L-BVI.normalTitle" = "Login with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "L6Z-KR-oMl"; */
+"L6Z-KR-oMl.normalTitle" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "LSd-yf-YJW"; */
+"LSd-yf-YJW.normalTitle" = "Help";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "LXc-HL-AlA"; */
+"LXc-HL-AlA.normalTitle" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Banking"; ObjectID = "Mbx-4l-uCs"; */
+"Mbx-4l-uCs.normalTitle" = "Banking";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N3a-YH-bVw"; */
+"N3a-YH-bVw.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N7m-xd-qHe"; */
+"N7m-xd-qHe.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Error!"; ObjectID = "S9N-9K-AEP"; */
+"S9N-9K-AEP.text" = "Error!";
+
+/* Class = "UITextView"; text = "Hmm,there was an error logging in with your Facebook account"; ObjectID = "SCa-Rq-auG"; */
+"SCa-Rq-auG.text" = "Hmm,there was an error logging in with your Facebook account";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "Tzm-nd-zFT"; */
+"Tzm-nd-zFT.normalTitle" = "close";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "bMW-bU-v34"; */
+"bMW-bU-v34.normalTitle" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "cAG-2g-CjM"; */
+"cAG-2g-CjM.normalTitle" = "Sign up";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dOo-vA-Hsy"; */
+"dOo-vA-Hsy.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "dUD-bc-PTZ"; */
+"dUD-bc-PTZ.normalTitle" = "History";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "e9h-R7-uKr"; */
+"e9h-R7-uKr.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "First and last name"; ObjectID = "eIh-gM-Epf"; */
+"eIh-gM-Epf.placeholder" = "First and last name";
+
+/* Class = "UITextField"; text = "Strange..."; ObjectID = "eQb-3j-Lna"; */
+"eQb-3j-Lna.text" = "Strange...";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gr5-13-RK6"; */
+"gr5-13-RK6.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "hRh-aW-gty"; */
+"hRh-aW-gty.normalTitle" = "close";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ikw-ia-AMT"; */
+"ikw-ia-AMT.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Hooga"; ObjectID = "jqB-tS-pJ7"; */
+"jqB-tS-pJ7.text" = "Hooga";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "mb1-K6-Q2G"; */
+"mb1-K6-Q2G.normalTitle" = "close";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "o2t-xn-LNT"; */
+"o2t-xn-LNT.normalTitle" = "Settings";
+
+/* Class = "UITextField"; text = "Signing up"; ObjectID = "qAe-pB-uiT"; */
+"qAe-pB-uiT.text" = "Signing up";
+
+/* Class = "UITextField"; text = "Welcome"; ObjectID = "rTf-Wb-4Tr"; */
+"rTf-Wb-4Tr.text" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Forgot password ?"; ObjectID = "wnI-uc-wpW"; */
+"wnI-uc-wpW.normalTitle" = "Forgot password ?";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "xyA-Xk-4fL"; */
+"xyA-Xk-4fL.normalTitle" = "X";
+
+/* Class = "UITextField"; text = "Uh-oh!"; ObjectID = "zxh-dG-9Dx"; */
+"zxh-dG-9Dx.text" = "Uh-oh!";
